@@ -1,0 +1,32 @@
+{
+  "name": "cartodb-map-api",
+  "version": "0.1.0",
+  "description": "CartoDB Maps API Client for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkudos/node-cartodb-client.git"
+  },
+  "keywords": [
+    "node",
+    "cartodb",
+    "api",
+    "client",
+    "requests"
+  ],
+  "author": "Michael Salgado <michaelsalgado@gkudos.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gkudos/node-cartodb-client/issues"
+  },
+  "homepage": "https://github.com/gkudos/node-cartodb-client#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
